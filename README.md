@@ -5,11 +5,11 @@
 
 
 ## ✨ Features
-- **Live News Feed** from [NewsAPI](https://newsapi.org/)
-- **Category Filters**:  
-  ![Category Icons](https://skillicons.dev/icons?i=js,nodejs,react,firebase) *(Replace with your actual categories)*
-- **One-Click Articles** - Direct links to sources
-- **Bootstrap-Powered UI** - Fully responsive layout
+- **Live News Feed** - Top headlines updated in real-time
+- **Smart Filtering** - Browse by category: 
+  - Trending | Weather | Entertainment | Technology | Sports
+- **Direct Article Links** - One-click access to full stories
+- **Responsive Design** - Mobile-optimized Bootstrap layout
 
 ## 🚀 Tech Stack
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/) 
