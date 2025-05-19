@@ -1,12 +1,20 @@
-# React + Vite
+# 📰 HeadLines24
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-%5E18.0.0-blue?logo=react)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-%5E4.0.0-purple?logo=vite)](https://vitejs.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.x-blueviolet?logo=bootstrap)](https://getbootstrap.com/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-Currently, two official plugins are available:
+**HeadLines24** is a modern and responsive web application that fetches real-time headlines using the [News API](https://newsapi.org/). Users can explore news articles across categories such as Weather, Trending, Entertainment, and more. Clicking a headline redirects users to the full article.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔥 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Built with React and Vite for blazing-fast performance
+- 🌍 Fetches real-time headlines using the News API
+- 📌 Category-based news filtering: Weather, Trending, Entertainment, Technology, etc.
+- 🧭 Clickable headlines redirect to full articles
+- 💅 Responsive and mobile-friendly UI styled with Bootstrap 5
+
+---
