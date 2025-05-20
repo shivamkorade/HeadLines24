@@ -19,7 +19,5 @@
 
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/your-username/HeadLines24.git
-cd HeadLines24
 npm install
 npm run dev
