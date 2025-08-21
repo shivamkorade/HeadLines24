@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function NavBar() {
   return (
@@ -6,9 +7,9 @@ export default function NavBar() {
       <div>
         <nav className="navbar navbar-expand-lg bg-dark navbar-dark px-3 ">
           <div className="container-fluid">
-            <a className="navbar-brand text-white fw-bold" href="/">
+            <Link className="navbar-brand text-white fw-bold" to="/">
               HeadLines 24
-            </a>
+            </Link>
             <button
               className="navbar-toggler"
               type="button"
@@ -26,48 +27,48 @@ export default function NavBar() {
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <a
+                  <Link
                     className="nav-link text-white"
                     aria-current="page"
-                    href="/"
+                    to="/"
                   >
                     Home
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link text-white" href="/business">
+                  <Link className="nav-link text-white" to="/business">
                     Business
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link text-white" href="/entertainment">
+                  <Link className="nav-link text-white" to="/entertainment">
                     Entertainment
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link text-white" href="/general">
+                  <Link className="nav-link text-white" to="/general">
                     General
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link text-white" href="/health">
+                  <Link className="nav-link text-white" to="/health">
                     Health
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link text-white" href="/science">
+                  <Link className="nav-link text-white" to="/science">
                     Science
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link text-white" href="/sports">
+                  <Link className="nav-link text-white" to="/sports">
                     Sports
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link text-white" href="/technology">
+                  <Link className="nav-link text-white" to="/technology">
                     Technology
-                  </a>
+                  </Link>
                 </li>
               </ul>
               {/* <form className="d-flex" role="search">
