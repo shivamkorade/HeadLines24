@@ -14,6 +14,12 @@ Stay updated with the latest headlines across categories like **Trending, Sports
 ✅ Direct links to full articles  
 
 ---
+## 📸 Screenshots  
+
+![Business](./screenshots/business.png)
+![Technology](./screenshots/technology.png)
+
+---
 
 ## 🛠️ Tech Stack  
 
