@@ -1,21 +1,44 @@
-# HeadLines24 📰
+# 📰 HeadLines24  
 
-[![Tech Stack](https://skillicons.dev/icons?i=react,vite,bootstrap,git,github)](https://skillicons.dev)  
-*A real-time news aggregator fetching global headlines with category filters*
+A modern **real-time news aggregator** built with React, Vite, and Bootstrap.  
+Stay updated with the latest headlines across categories like **Trending, Sports, Technology, Entertainment, Weather** and more.  
+
+---
+
+## 🚀 Features  
+
+✅ Live & latest headlines  
+✅ Category-based filtering  
+✅ Responsive & mobile-friendly UI  
+✅ Simple & fast with Vite bundler  
+✅ Direct links to full articles  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
+</p>
+
+---
 
 
-## ✨ Features
-- **Live News Feed** - Top headlines updated in real-time
-- **Smart Filtering** - Browse by category: 
-  - Trending | Weather | Entertainment | Technology | Sports
-- **Direct Article Links** - One-click access to full stories
-- **Responsive Design** - Mobile-optimized Bootstrap layout
 
-## 🚀 Tech Stack
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/) 
-[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) 
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+## ⚡ Getting Started  
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/shivamkorade/HeadLines24.git
+cd HeadLines24
+
 
 ## ⚙️ Setup
 ```bash
