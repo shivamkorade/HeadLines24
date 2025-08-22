@@ -5,7 +5,7 @@ export default function NavBar() {
   return (
     <div>
       <div>
-        <nav className="navbar navbar-expand-lg bg-dark navbar-dark px-3 ">
+        <nav className="navbar fixed-top navbar-expand-lg bg-dark navbar-dark px-3 ">
           <div className="container-fluid">
             <Link className="navbar-brand text-white fw-bold" to="/">
               HeadLines 24

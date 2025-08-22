@@ -9,25 +9,60 @@ function App() {
         <NavBar />
         <Switch>
           <Route exact path="/">
-            <NewsComponent key="general" pageSize={10} country="us" category="general" />
+            <NewsComponent
+              key="general"
+              pageSize={10}
+              country="us"
+              category="general"
+            />
           </Route>
           <Route exact path="/business">
-            <NewsComponent key="business" pageSize={10} country="us" category="business" />
+            <NewsComponent
+              key="business"
+              pageSize={10}
+              country="us"
+              category="business"
+            />
           </Route>
           <Route exact path="/entertainment">
-            <NewsComponent key="entertainment" pageSize={10} country="us" category="entertainment" />
+            <NewsComponent
+              key="entertainment"
+              pageSize={10}
+              country="us"
+              category="entertainment"
+            />
           </Route>
           <Route exact path="/health">
-            <NewsComponent key="health" pageSize={10} country="us" category="health" />
+            <NewsComponent
+              key="health"
+              pageSize={10}
+              country="us"
+              category="health"
+            />
           </Route>
           <Route exact path="/science">
-            <NewsComponent key="science" pageSize={10} country="us" category="science" />
+            <NewsComponent
+              key="science"
+              pageSize={10}
+              country="us"
+              category="science"
+            />
           </Route>
           <Route exact path="/sports">
-            <NewsComponent key="sports" pageSize={10} country="us" category="sports" />
+            <NewsComponent
+              key="sports"
+              pageSize={10}
+              country="us"
+              category="sports"
+            />
           </Route>
           <Route exact path="/technology">
-            <NewsComponent key="technology" pageSize={10} country="us" category="technology" />
+            <NewsComponent
+              key="technology"
+              pageSize={10}
+              country="us"
+              category="technology"
+            />
           </Route>
         </Switch>
       </Router>
